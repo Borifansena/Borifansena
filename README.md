@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Borifansena
-- 👀 I’m interested in  Web devloper
+- 👋 Hi, I’m Borifan
+- 👀 I’m interested in  Web...
 - 🌱 I’m currently learning SE @AAU
 - 📫 How to reach me borifan444@gmail.com
 - 
